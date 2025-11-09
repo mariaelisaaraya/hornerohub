@@ -1,0 +1,5 @@
+network: testnet
+contracts:
+  hornero_voting:
+    source: contracts/hornero_voting
+    # Solo este. Nada más.
