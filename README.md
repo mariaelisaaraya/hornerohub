@@ -18,9 +18,15 @@ register_project
 vote
 voting_is_open
 
-Mejoras de seguridad implementadas
-Compilar y deployar ← ESTAMOS ACÁ
-Crear frontend
+Mejoras de seguridad implementadas - MA O MENO
+
+Contrato: CDRDRXRJBMIOURTMMO22WFB7QRNHV65OJ2QZ6EZ5GOMHGYGZOZUSFDAM
+Red: Testnet
+Link: https://stellar.expert/explorer/testnet/contract/CDRDRXRJBMIOURTMMO22WFB7QRNHV65OJ2QZ6EZ5GOMHGYGZOZUSFDAM
+
+Compilar y deployar
+
+Crear frontend ← ESTAMOS ACÁ
 Testing
 Video demo
 Submit
