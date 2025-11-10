@@ -393,6 +393,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 *Just like the hornero bird builds its nest brick by brick, we're building the future of hackathons—one block at a time.*
 
-[Get Started](#-installation--setup) • [View Demo](#) • [Read Docs](#)
+[Get Started](#-installation--setup) • [View Demo](#) • [Docs](https://drive.google.com/file/d/1seq4PHsScpMM21vD9XCNoKvRQZAq-NMF/view)
 
 </div>
