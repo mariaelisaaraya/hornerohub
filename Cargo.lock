@@ -664,7 +664,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "hornero"
+name = "hornero_voting"
 version = "0.1.0"
 dependencies = [
  "soroban-sdk",
