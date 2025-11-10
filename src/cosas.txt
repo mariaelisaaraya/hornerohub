@@ -1,4 +1,0 @@
-import { useState } from "react";
-import hornero_voting from "./contracts/hornero_voting.ts";
-
-const CONTRACT_ID = "CDRDRXRJBMIOURTMMO22WFB7QRNHV65OJ2QZ6EZ5GOMHGYGZOZUSFDAM";
